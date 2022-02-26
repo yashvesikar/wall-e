@@ -5,6 +5,9 @@
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["activeTab", "scripting"],
-  "action": {}
+  "action": {},
+  "icons": {
+    "32": "icon.png"
+  },
+  "permissions": ["activeTab", "scripting"]
 }
