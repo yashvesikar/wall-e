@@ -6,7 +6,7 @@ i will update it as i need.
 # installation steps
 
 1. Download as zip and store somewhere you won't move it and unzip
-2. navigate to http://chrome://extensions
+2. navigate to [chrome://extensions](chrome://extensions)
 3. enable "Developer mode" and click "Load unpacked" and select the unzipped folder
 4. delete the zip
 
